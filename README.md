@@ -1,6 +1,6 @@
 # Dotfiles-Termux-Sway
 
-> !> [!NOTE]
+> [!NOTE]
 > Esse repositório serve apenas para guardar arquivos, mas se tiver algo útil pode usar.
 
 # *Sway (via Termux:X11)*
